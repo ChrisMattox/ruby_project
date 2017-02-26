@@ -14,6 +14,12 @@ https://www.tutorialspoint.com/ruby/ruby_methods.htm
 https://www.codingfriends.com/index.php/2009/07/28/method-add-two-numbers-4/
 
 
+https://www.youtube.com/watch?v=C4GyNxgmbgI
+https://www.youtube.com/watch?v=mBXGBbEbXZY
+https://www.youtube.com/watch?v=gIEMKOI_Y-4
+
+
+
 
 * Ruby 2.4.0
 * ...
