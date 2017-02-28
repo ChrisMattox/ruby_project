@@ -19,11 +19,14 @@ https://www.youtube.com/watch?v=eY1HCqe9MBc
 https://www.youtube.com/watch?v=u5wVtsjsSY4
 https://www.youtube.com/watch?v=RhVk2XJma6o
 https://www.youtube.com/watch?v=UmZwfTnU02I
-
-
 https://www.youtube.com/watch?v=C4GyNxgmbgI
 https://www.youtube.com/watch?v=mBXGBbEbXZY
 https://www.youtube.com/watch?v=gIEMKOI_Y-4
+
+
+
+* web tuts 
+https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html
 
 
 
