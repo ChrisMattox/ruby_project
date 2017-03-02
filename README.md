@@ -25,8 +25,11 @@ https://www.youtube.com/watch?v=gIEMKOI_Y-4
 
 
 
-* web tuts 
+* web tuts
 https://ruby-doc.org/docs/ruby-doc-bundle/Manual/man-1.4/syntax.html
+
+* online book resourse
+https://www.railstutorial.org/book/beginning
 
 
 
